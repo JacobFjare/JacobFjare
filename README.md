@@ -1,6 +1,1 @@
-Hello,
-I am @JacobFjare.
-<!---
-JacobFjare/JacobFjare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Jacob Fjære — a Computer Engineering student at the University of Agder (UiA), with experience in C, C++, C#, JavaScript, TypeScript, SQL, SQLite, and PostgreSQL.
